@@ -1,0 +1,12 @@
+C:\Users\Rhabi\OneDrive\Documents\Backend\ProniaMvc\Pronia\EmailServices\bin\Debug\net6.0\EmailServices.deps.json
+C:\Users\Rhabi\OneDrive\Documents\Backend\ProniaMvc\Pronia\EmailServices\bin\Debug\net6.0\EmailServices.dll
+C:\Users\Rhabi\OneDrive\Documents\Backend\ProniaMvc\Pronia\EmailServices\bin\Debug\net6.0\EmailServices.pdb
+C:\Users\Rhabi\OneDrive\Documents\Backend\ProniaMvc\Pronia\EmailServices\obj\Debug\net6.0\EmailServices.csproj.AssemblyReference.cache
+C:\Users\Rhabi\OneDrive\Documents\Backend\ProniaMvc\Pronia\EmailServices\obj\Debug\net6.0\EmailServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rhabi\OneDrive\Documents\Backend\ProniaMvc\Pronia\EmailServices\obj\Debug\net6.0\EmailServices.AssemblyInfoInputs.cache
+C:\Users\Rhabi\OneDrive\Documents\Backend\ProniaMvc\Pronia\EmailServices\obj\Debug\net6.0\EmailServices.AssemblyInfo.cs
+C:\Users\Rhabi\OneDrive\Documents\Backend\ProniaMvc\Pronia\EmailServices\obj\Debug\net6.0\EmailServices.csproj.CoreCompileInputs.cache
+C:\Users\Rhabi\OneDrive\Documents\Backend\ProniaMvc\Pronia\EmailServices\obj\Debug\net6.0\EmailServices.dll
+C:\Users\Rhabi\OneDrive\Documents\Backend\ProniaMvc\Pronia\EmailServices\obj\Debug\net6.0\refint\EmailServices.dll
+C:\Users\Rhabi\OneDrive\Documents\Backend\ProniaMvc\Pronia\EmailServices\obj\Debug\net6.0\EmailServices.pdb
+C:\Users\Rhabi\OneDrive\Documents\Backend\ProniaMvc\Pronia\EmailServices\obj\Debug\net6.0\ref\EmailServices.dll
